@@ -35,7 +35,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YOUR-USERNAME/FlightFinder.git
+git clone https://github.com/Karthik681-art/Airlines-management-system/edit/main/README.md
 cd FlightFinder
 Setup Backend:
 
@@ -54,5 +54,6 @@ cd client
 npm install
 npm start
 Access App:
-Open http://localhost:3000 in your browser.
+Open http://localhost:3000 in your browser or netlify app
+
 
